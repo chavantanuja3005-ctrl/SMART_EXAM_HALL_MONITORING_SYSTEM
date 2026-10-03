@@ -466,14 +466,13 @@ Possible extensions include:
 ---
 
 👨‍💻 Author
-
-Omkar Sabale
+Tanuja Chavan
 
 Embedded Systems & Firmware Engineer | E&TC Graduate
 
 GitHub
 
-"GitHub Repository" (https://reference-url-citation.invalid/1)
+
 
 ---
 
@@ -490,8 +489,4 @@ Communication  : GPIO / Peripheral Interfacing
 IDE             : Keil µVision
 Simulation      : Proteus
 
----
 
-❤️ Built with Embedded C + ARM7 + LPC2148
-
-If you find this project useful, consider giving the repository a ⭐.
